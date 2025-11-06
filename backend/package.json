@@ -4,6 +4,10 @@
   "description": "Backend for LinkedIn Clone",
   "main": "server.js",
   "type": "module",
+
+   "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
