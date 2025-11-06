@@ -61,5 +61,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) social media platform with 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/social-media-app.git](https://github.com/yourusername/social-media-app.git)
+   git clone [https://github.com/muralikrish/social-media-app.git](https://github.com/Muralikrishn123/social-media-app.git)
    cd social-media-app
+
+ https://github.com/Muralikrishn123/social-media-app.git
