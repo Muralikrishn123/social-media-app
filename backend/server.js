@@ -34,7 +34,7 @@ const app = express();
 
 // CORS configuration — allows frontend to communicate properly
 const corsOptions = {
-  origin: ['http://localhost:5173'], // Frontend URL
+  origin: ['http://localhost:5173','https://social-media-app-woad-delta.vercel.app/'], // Frontend URL
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: [
