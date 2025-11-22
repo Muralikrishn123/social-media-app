@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5007/api', // Update this to 5007
+  baseURL: process.env.REACT_APP_API_URL || 'https://social-media-app-woad-delta.vercel.app/api',
   withCredentials: true,
 });
 
